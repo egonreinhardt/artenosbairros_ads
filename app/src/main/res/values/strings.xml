@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Arte Nos Bairros</string>
+
+<!--    Atentar-se às strings antigas: medico = PROFESSOR; bebe = POLO; mae = ALUNO!!!-->
+    <string name="medico">Professor</string>
+    <string name="listar_medicos">Listar Professores</string>
+    <string name="gerenciar_medicos">Gerenciar Professores</string>
+    <string name="excluir_medico_mensagem">Deseja excluir o professor?</string>
+
+    <string name="bebe">Polo</string>
+    <string name="listar_bebes">Listar Polos</string>
+    <string name="gerenciar_bebes">Gerenciar Polos</string>
+    <string name="dialog_excluir_bebe">Deseja realmente excluir o polo?</string>
+
+    <string name="mae">Aluno</string>
+    <string name="listar_maes">Listar Alunos</string>
+    <string name="gerenciar_maes">Gerenciar Alunos</string>
+    <string name="dialog_excluir_mae">Deseja realmente excluir o aluno?</string>
+
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="editar">Editar</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="cep">CEP*</string>
+    <string name="nome">Nome*</string>
+    <string name="logradouro">Logradouro*</string>
+    <string name="numero">Número*</string>
+    <string name="bairro">Bairro*</string>
+    <string name="cidade">Cidade*</string>
+    <string name="telefone_fixo">Telefone fixo</string>
+    <string name="telefone_celular">Telefone celular*</string>
+    <string name="telefone_comercial">Telefone comercial</string>
+    <string name="data_nascimento">Data Nascimento*</string>
+    <string name="especialidade">Disciplina*</string>
+    <string name="selecione_a_mae">Selecione a Mãe*</string>
+    <string name="selecione_o_medico">Selecione o Professor*</string>
+    <string name="peso">Peso*</string>
+    <string name="altura">Altura*</string>
+
+    <string name="compartilhar">Compartilhar Texto</string>
+    <string name="camera">Câmera</string>
+    <string name="sensor">Sensor</string>
+    <string name="tirar_foto">Tirar Foto</string>
+    <string name="valor_x">Valor X:</string>
+    <string name="valor_y">Valor Y:</string>
+    <string name="valor_z">Valor Z:</string>
+
+</resources>
